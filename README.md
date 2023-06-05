@@ -59,7 +59,7 @@ As a user, I can:
 - Click the "resume" button to restart the counter and re-enable the buttons.
 - Leave comments on my gameplay, such as: "Wow, what a fun game this is."
 
-## Timer Hints
+## Timer Hints 
 
 If you're not sure how to create or pause a timer, look into:
 
